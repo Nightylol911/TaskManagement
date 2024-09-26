@@ -1,3 +1,4 @@
 - Learn Git basics
 - Set up Git repository
 - Making changes to the files and pushing to the repository
+- Practice Git branching
